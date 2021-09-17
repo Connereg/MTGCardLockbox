@@ -1,0 +1,57 @@
+{
+  "customCards": [
+    {
+      "image": "https://mtgcardsmith.com/view/cards_ip/1631629948500874.png?t=355673",
+      "name": "Alec, Beastmaster of Jax",
+      "creator": "ConnerG",
+      "password": "Darkadversary201",
+      "id": 2
+    },
+    {
+      "image": "https://mtgcardsmith.com/view/cards_ip/1631631052784228.png?t=025668",
+      "name": "Gage, Destroyer of Diviners",
+      "creator": "ConnerG",
+      "password": "Darkadversary201",
+      "id": 3
+    },
+    {
+      "image": "https://mtgcardsmith.com/view/cards_ip/1631715124560596.png?t=005093",
+      "name": "Zeon, Mad Webmaster",
+      "creator": "ConnerG",
+      "password": "Darkadversary201",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "text": "I Love that Cat!",
+      "name": "ConnerG",
+      "cardId": 2,
+      "id": 6
+    },
+    {
+      "text": "This card is busted...",
+      "name": "MTGFan420",
+      "cardId": 2,
+      "id": 7
+    },
+    {
+      "text": "Zeon is my favorite card!",
+      "name": "ConnerG",
+      "cardId": 4,
+      "id": 8
+    },
+    {
+      "text": "PETERRRR",
+      "name": "Conner",
+      "cardId": 5,
+      "id": 11
+    },
+    {
+      "text": "This card is busted...",
+      "name": "DAMN",
+      "cardId": 4,
+      "id": 12
+    }
+  ]
+}

@@ -5,9 +5,92 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0c091f;
+  color: white;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.application-titler {
+  display: block;
+  position: absolute;
+  text-align: center;
+  font-size: xx-large;
+  left: 120px;
+  top: 10px;
+}
+
+.new-custom-form-container {
+  display: grid;
+  margin: auto;
+  width: 80%;
+  border: 3px solid red;
+  place-content: center;
+  padding: 10px;
+}
+
+/* .custom-card-container {
+  margin:auto;
+  width: 50%;
+  
+  place-content: center;
+ 
+} */
+
+
+.add-comment-form {
+  display: grid;
+  margin: auto;
+  width: 50%;
+  border: 3px solid red;
+  place-content: center;
+  padding: 10px;
+}
+
+.randomized-real-card-section {
+  margin: auto;
+  width: 50%;
+  border: 2px solid white;
+  place-content: center;
+  text-align: center;
+  padding: 10px;
+}
+
+.submit-button {
+  display: block;
+  margin-left:auto;
+  margin-right:auto
+}
+
+
+.new-card-preview {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.custom-card-div {
+  margin: auto;
+  width: 90%;
+  border: 2px solid white;
+  place-content: center;
+  text-align: center;
+  padding: 10px;
+}
+
+.column {
+  float: left;
+  margin:auto;
+  width: 30.33%;
+  padding: 20px;
+  padding-left: 3px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
